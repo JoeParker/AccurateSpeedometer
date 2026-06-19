@@ -4,4 +4,4 @@ module AccurateSpeedometer.Config
 public static func isMph() -> Bool = true;
 
 // Adjust the actual speed modifier (only affects displayed speed)
-public static func speedModifier() -> Float = 0.52;
+public static func speedModifier() -> Float = 0.7;
